@@ -1,14 +1,13 @@
-# Natrium (NANO) and Kalium (BANANO) Wallet Server
+# Scriv Wallet Server
 
-## What is Natrium, Kalium, NANO, BANANO?
+## What is Scriv Mobile Wallet?
 
-Natrium and Kalium are mobile wallets written with Flutter. NANO and BANANO are cryptocurrencies.
+Scriv Mobile Wallet  is mobile wallet written with Flutter. 
 
 | Link | Description |
 | :----- | :------ |
-[natrium.io](https://natrium.io) | Natrium Homepage
-[kalium.banano.cc](https://kalium.banano.cc) | Kalium Homepage
-[appditto.com](https://appditto.com) | Appditto Homepage
+[scriv.network](https://scriv.network) | Scriv Homepage
+
 
 ## Requirements
 
@@ -19,7 +18,7 @@ Install requirements on Ubuntu 18.04:
 apt install python3 python3-dev libdpkg-perl virtualenv nginx
 ```
 
-Minimum of one **NANO/BANANO Node** with RPC enabled.
+Minimum of one **Scriv Node** with RPC enabled.
 
 **Redis server** running on the default port 6379
 
